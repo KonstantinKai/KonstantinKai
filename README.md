@@ -10,11 +10,19 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1n-0pMgAokOYWe3H_Qk29i_zgJaNVEEB0/view?usp=drive_link)
 
-<p align="left"> <a href="https://github.com/KonstantinKai/uploadcare_client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KonstantinKai&repo=uploadcare_client" alt="konstantinkai" /></a> </p>
 
-<p align="left"> <a href="https://github.com/KonstantinKai/meta-injector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KonstantinKai&repo=meta-injector" alt="konstantinkai" /></a> </p>
+<a href="https://github.com/KonstantinKai/uploadcare_client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KonstantinKai&repo=uploadcare_client" alt="konstantinkai" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinKai&layout=compact" alt="konstantinkai" /></a> </p>
+
+<a href="https://github.com/KonstantinKai/meta-injector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KonstantinKai&repo=meta-injector" alt="konstantinkai" />
+</a>
+
+___
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KonstantinKai&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="KonstantinKai github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinKai&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **KonstantinKai/KonstantinKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
