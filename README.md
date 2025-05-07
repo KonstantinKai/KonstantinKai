@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **kai@konstantinkai.dev**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1n-0pMgAokOYWe3H_Qk29i_zgJaNVEEB0/view?usp=drive_link)
-
 
 <a href="https://github.com/KonstantinKai/uploadcare_client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KonstantinKai&repo=uploadcare_client" alt="konstantinkai" />
