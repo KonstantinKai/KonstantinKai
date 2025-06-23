@@ -1,11 +1,5 @@
 [![MasterHead](https://github.com/user-attachments/assets/df684aa8-0d58-4090-b956-45c95229c561)](https://github.com/KonstantinKai)
 
-<h3 align="left">A passionate Software Engineer from Ukraine</h3>
-
-- 🌱 I’m currently learning **Rust language**
-
-- 📫 How to reach me **kai@konstantinkai.dev**
-
 ___
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KonstantinKai&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="KonstantinKai github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinKai&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
