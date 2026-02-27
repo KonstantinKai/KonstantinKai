@@ -95,6 +95,8 @@ Team      │ Leading squads of up to 10 engineers
 | [**meta-injector**](https://github.com/KonstantinKai/meta-injector) | Lightweight, TypeScript-friendly service locator for JS/Node.js applications | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**proto-flutter-plugin**](https://github.com/KonstantinKai/proto-flutter-plugin) | Proto WASM plugin for Flutter | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
 | [**proto-dart-plugin**](https://github.com/KonstantinKai/proto-dart-plugin) | Proto WASM plugin for Dart | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
+| [**proto-php-plugin**](https://github.com/KonstantinKai/proto-php-plugin) | Proto WASM plugin for managing PHP versions | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
+| [**proto-composer-plugin**](https://github.com/KonstantinKai/proto-composer-plugin) | Proto WASM plugin for managing Composer versions | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
 
 </div>
 
