@@ -92,7 +92,7 @@ Team      │ Leading squads of up to 10 engineers
 | Project | Description | Tech |
 |:--------|:------------|:----:|
 | [**uploadcare_client**](https://github.com/KonstantinKai/uploadcare_client) | Flutter library for Uploadcare REST API — file uploads, media processing & adaptive delivery | ![Dart](https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white) |
-| [**meta-injector**](https://github.com/KonstantinKai/meta-injector) | Lightweight, TypeScript-friendly service locator for JS/Node.js applications | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**reelkit**](https://github.com/KonstantinKai/reelkit) | Headless, virtualized, TikTok-style vertical slider component library. Zero dependencies in core | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**proto-flutter-plugin**](https://github.com/KonstantinKai/proto-flutter-plugin) | Proto WASM plugin for Flutter | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
 | [**proto-dart-plugin**](https://github.com/KonstantinKai/proto-dart-plugin) | Proto WASM plugin for Dart | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
 | [**proto-php-plugin**](https://github.com/KonstantinKai/proto-php-plugin) | Proto WASM plugin for managing PHP versions | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
