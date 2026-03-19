@@ -83,7 +83,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/konstantinkai.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://konstantinkai.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KonstantinKai)
 
 </div>
 
