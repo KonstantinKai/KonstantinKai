@@ -8,30 +8,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-```bash
-konstantin@dev:~$ neofetch --about-me
-
-🔧 SYSTEM INFO
-─────────────────────────────────────────────────
-OS        │ Frontend Engineer v13.0+
-Shell     │ TypeScript / React / Next.js / Rust
-Uptime    │ 13+ years of shipping code
-Team      │ Leading squads of up to 10 engineers
-─────────────────────────────────────────────────
-
-💡 FUN FACTS
-─────────────────────────────────────────────────
-→ mass(node_modules) > mass(black_hole)
-→ I mass-produce TypeScript interfaces
-→ "It works on my machine" is my deployment strategy
-→ Rewriting it in Rust... eventually
-─────────────────────────────────────────────────
-```
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
