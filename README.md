@@ -19,17 +19,17 @@
 
 #### Frontend & Mobile
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,sass,styledcomponents&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,materialui,styledcomponents&theme=dark" />
 </a>
 
 #### Backend & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,wasm,graphql,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,wasm,supabase,docker,git,github&theme=dark" />
 </a>
 
 #### Build & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vite,webpack,linux,githubactions,vercel,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vite,webpack,apple,githubactions,cloudflare&theme=dark" />
 </a>
 
 </div>
