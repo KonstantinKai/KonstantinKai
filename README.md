@@ -67,8 +67,10 @@
 
 | Project | Description | Tech |
 |:--------|:------------|:----:|
-| [**uploadcare_client**](https://github.com/KonstantinKai/uploadcare_client) | Flutter library for Uploadcare REST API — file uploads, media processing & adaptive delivery | ![Dart](https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white) |
 | [**reelkit**](https://github.com/KonstantinKai/reelkit) | Headless, virtualized, TikTok-style vertical slider component library. Zero dependencies in core | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**unau**](https://github.com/KonstantinKai/unau) | Terminal code review that ends in a file an agent can act on | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
+| [**herdr-harpoon**](https://github.com/KonstantinKai/herdr-harpoon) | Harpoon for herdr: mark panes and jump by index. Bash-only, zero build | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| [**uploadcare_client**](https://github.com/KonstantinKai/uploadcare_client) | Flutter library for Uploadcare REST API — file uploads, media processing & adaptive delivery | ![Dart](https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white) |
 | [**proto-flutter-plugin**](https://github.com/KonstantinKai/proto-flutter-plugin) | Proto WASM plugin for Flutter | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
 | [**proto-dart-plugin**](https://github.com/KonstantinKai/proto-dart-plugin) | Proto WASM plugin for Dart | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
 | [**proto-php-plugin**](https://github.com/KonstantinKai/proto-php-plugin) | Proto WASM plugin for managing PHP versions | ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) |
@@ -84,12 +86,6 @@
 
 [![Website](https://img.shields.io/badge/konstantinkai.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://konstantinkai.dev/)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KonstantinKai&style=for-the-badge&color=58a6ff&label=Profile+Views" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
